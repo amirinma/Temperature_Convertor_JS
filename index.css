@@ -1,0 +1,18 @@
+body{
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+div{
+  background-color: #f6f5f5;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 0.2cm;
+  width: 50rem;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #dcdbdb;
+  border-style: inset;
+}
